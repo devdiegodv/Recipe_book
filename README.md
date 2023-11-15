@@ -40,11 +40,11 @@ The Recipe Book is a Python project that allows users to manage their recipes an
 
 2. Follow the on-screen instructions to interact with the Recipe Book.
 
-### Contributing
+## Contributing
 Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
-### License
+## License
 This project is licensed under the MIT License.
 
-### Contact
+## Contact
 For any questions or feedback, feel free to reach out to the project maintainer: dev-diegov
